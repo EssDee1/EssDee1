@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I am Shivansh from Nepal, an tech and space freak. I like to explore the world of computer science and programming. I am currently mastering MERN Stack Web Applications. Lets Collaborate!
 <!--
 **EssDee1/EssDee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
